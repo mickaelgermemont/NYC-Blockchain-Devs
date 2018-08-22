@@ -4,7 +4,7 @@ go to that page to view all [Topics](TOPICS.md)
 
 ## Level 1 Apps
 
-[Lottery](./Lottery/all_implementations.md) Subject: Gaming / Randomness / Contract
+[Lottery](./Lottery/all_implementations.md) Subject: Gaming / Randomness
 
 [BlackDapp](./BlackDapp/All_Implementations.md) Subject: Gaming / Randomness
 
